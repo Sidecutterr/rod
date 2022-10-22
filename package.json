@@ -28,8 +28,10 @@
     "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
+    "@next/eslint-plugin-next": "^12.3.1",
     "@nomiclabs/hardhat-etherscan": "^3.1.0",
     "autoprefixer": "^10.4.7",
+    "babel-eslint": "^10.1.0",
     "eslint": "8.18.0",
     "eslint-config-next": "12.1.6",
     "postcss": "^8.4.14",
